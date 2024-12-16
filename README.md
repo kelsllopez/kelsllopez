@@ -20,6 +20,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,flutter,py,css,html,js,nodejs,mysql,sqlite,firebase,git,github,vscode,linux,django,unity,aws,gcp,azure,jquery,linkedin,mongodb" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,php,flutter,py,css,html,js,nodejs,mysql,sqlite,firebase,git,github,vscode,linux,django,unity,aws,gcp,azure,jquery,linkedin,mongodb,linode" />
   </a>
 </div>
