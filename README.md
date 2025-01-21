@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎮 Amante de los videojuegos<br>🐕 Me encanta salir a caminar con mi perrita<br>🍔 Disfruto mucho comer y probar nuevas comidas<br>🎧 Escucho música para relajarme<br>🏋️‍♀️ Me gusta hacer deporte y mantenerme activa<br>💻 Apasionada por la tecnología y el desarrollo de software<br>
+🎮 Amante de los videojuegos<br>🐕 Me encanta salir a caminar con mi perrita<br>🍔 Disfruto mucho comer y probar nuevas comidas<br>🎧 Escucho música para relajarme<br>🏋️‍♀️ Me gusta hacer deporte y mantenerme activa<br>💻 Apasionada por la tecnología y el desarrollo de software<br> <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /><br>
+
 
 
 ## 🌐 Socials:
