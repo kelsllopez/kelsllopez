@@ -15,7 +15,7 @@ Técnico en Soporte TI reconvertida a ciberseguridad. Opero un home lab con Wazu
 
 ## 📌 Proyectos destacados
 
-- 🔵 [soc-homelab-detections](https://github.com/kelsllopez/soc-homelab-detections.git) — ataques simulados + alertas Wazuh + reportes de incidente
+- 🔵 [soc-homelab-detections](./soc-homelab-detections.git) — ataques simulados + alertas Wazuh + reportes de incidente
 - 📧 [phishing-analyzer](./phishing-analyzer) — script Python para análisis de emails sospechosos  
 - 🪟 [windows-event-investigator](./windows-event-investigator) — PowerShell para Event IDs críticos
 - 📄 [incident-reports](./incident-reports) — portafolio de reportes formales (NIST IR lifecycle)
